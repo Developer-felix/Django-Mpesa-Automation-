@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'users',
     'payments',
     'rest_framework',
-     'transactions',
+    'transactions',
     'wallets',
 ]
 
