@@ -1,0 +1,26 @@
+# dependencies
+frontend/gui/node_modules
+frontend/gui/.pnp
+frontend/gui/.pnp.js
+
+# testing
+frontend/gui/coverage
+
+# production
+frontend/gui/build
+
+# misc
+frontend/gui/.DS_Store
+frontend/gui/.env.local
+frontend/gui/.env.development.local
+frontend/gui/.env.test.local
+frontend/gui/.env.production.local
+
+frontend/gui/npm-debug.log*
+frontend/gui/yarn-debug.log*
+frontend/gui/yarn-error.log*
+
+backend/venv
+backend/db.sqlite3
+backend/media
+.idea
